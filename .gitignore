@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Ignore fe and be folders because they are separate repositories
+fe/
+be/
