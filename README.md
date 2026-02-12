@@ -54,7 +54,7 @@ npm run dev
 
 ## Akun Demo (Seed)
 
-- **Admin**: `admin@klinik.com` / `admin123`
+- **Dokter**: `dokter@klinik.com` / `dokter123`
 - **Pasien**: `budi@gmail.com` / `patient123`
 
 ## Endpoint API Utama
